@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Veschi Assicurazioni - Contatti</string>
+
+    <!--Company Description-->
+    <string name="title">Intermediari assicurativi a Viterbo</string>
+
+    <!--Address-->
+    <string name="address">Indirizzo: Via I. Garbini 134/C - 01100 Viterbo</string>
+
+    <!--Telephone-->
+    <string name="phone">Telefono: +39 0761326921</string>
+
+    <!--Email-->
+    <string name="email">Email: info@veschiassicurazioni.it</string>
+
+</resources>
